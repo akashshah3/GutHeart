@@ -28,12 +28,14 @@ st.markdown(
 def load_assets():
     rf = joblib.load("rf_model.pkl")
     gb = joblib.load("gb_model.pkl")
+    scaler = joblib.load("scaler.pkl")
     with open("microbe_knowledge.json") as f:
         kb = json.load(f)
-    return rf, gb, kb
+    return rf, gb, scaler, kb
 
 
-rf_model, gb_model, microbe_kb = load_assets()
+rf_model, gb_model, scaler, microbe_kb = load_assets()
+
 model_dict = {"Random Forest": rf_model, "Gradient Boosting": gb_model}
 
 def top_feature_importance(model, k=15):
@@ -53,17 +55,12 @@ st.sidebar.caption("© 2025 Gut‑Heart Lab | For research use only")
 
 # ---------- Helper functions ----------
 def predict(df: pd.DataFrame):
-    prob = chosen_model.predict_proba(df)[0, 1]
+    X = df[chosen_model.feature_names_in_]
+    X_scaled = scaler.transform(X)
+    prob = chosen_model.predict_proba(X_scaled)[0,1]
+    # prob = chosen_model.predict_proba(df)[0, 1]
     label = "High Risk" if prob >= 0.5 else "Low Risk"
     return prob, label
-
-def get_lime(df_row):
-    exp = lime_explainer.explain_instance(
-        df_row.values[0], 
-        chosen_model.predict_proba, 
-        num_features=10
-    )
-    return exp.as_list()
 
 def advice_for_microbe(raw_name: str):
     """Return the KB entry whose aliases contain `raw_name` (after cleanup)."""
