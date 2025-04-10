@@ -1,0 +1,162 @@
+[
+  {
+    "microbe": "Ruminococcus gnavus",
+    "effect": "risk_increase",
+    "evidence": "Enriched in atherosclerotic CVD patients (higher prevalence and abundance compared to healthy controls)&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.",
+    "interventions": [
+      "Increase dietary fiber intake (e.g., fruits like guava, pear, vegetables, whole grains) – fruit consumption (apples/pears) is linked to lower R. gnavus levels&#8203;:contentReference[oaicite:2]{index=2}.",
+      "Consume fermented foods (idli, dosa, dhokla, yogurt/curd) to introduce beneficial microbes that can help outcompete R. gnavus in the gut.",
+      "Limit high-fat and high-sugar foods (fried snacks, sweets, sugary drinks) which may create a gut environment that favors R. gnavus over beneficial bacteria."
+    ],
+    "food_examples": [
+      "Guava, apple, pear as high-fiber snacks instead of candies",
+      "Whole grains and millets (ragi, jowar, brown rice) in place of refined grains",
+      "Fermented dosa/idli batter preparations for breakfast",
+      "Probiotic curd (dahi) or buttermilk (chaas) with meals"
+    ]
+  },
+  {
+    "microbe": "Streptococcus oralis",
+    "effect": "risk_increase",
+    "evidence": "Streptococcus (oral-type) bacteria are more abundant in coronary artery disease patients than in healthy people&#8203;:contentReference[oaicite:3]{index=3}.",
+    "interventions": [
+      "Reduce intake of refined sugars and sweets – a lower-sugar diet will starve S. oralis (a fermentative oral bacterium) and discourage its overgrowth in the gut.",
+      "Emphasize fiber-rich foods (fruits, salads, whole grains) to promote a healthier gut environment less hospitable to Streptococcus.",
+      "Include probiotic foods like unsweetened yogurt, kefir or fermented pickles to introduce Lactobacilli and other beneficial microbes that antagonize Streptococcus."
+    ],
+    "food_examples": [
+      "Fresh fruits (e.g., oranges, guava) or dates to satisfy sweet cravings instead of sugary desserts",
+      "Whole-wheat roti or oats upma for fiber instead of white bread",
+      "Homemade dahi (curd) or unsweetened lassi with live cultures at meals",
+      "Fermented pickle (such as fermented carrot/turnip kanji) as a condiment for probiotics"
+    ]
+  },
+  {
+    "microbe": "Streptococcus mitis",
+    "effect": "risk_increase",
+    "evidence": "Streptococcus mitis is an oral microbe found enriched in patients with cardiovascular disease (reflecting dysbiosis similar to S. oralis)&#8203;:contentReference[oaicite:4]{index=4}.",
+    "interventions": [
+      "Maintain good oral hygiene (regular brushing and flossing) to reduce oral S. mitis that could translocate to the gut – this lifestyle step helps lower its overall load.",
+      "Limit sugary foods and beverages (colas, sweets, chocolates); high sugar intake promotes Streptococcus growth in the oral cavity and gut.",
+      "Add fermented foods or probiotics (such as probiotic curd, Yakult™) to support beneficial flora – Lactobacillus probiotics can inhibit streptococcal species."
+    ],
+    "food_examples": [
+      "Water or nimbu pani (lemon water) instead of sugary soft drinks",
+      "Fiber-rich fruit chaat (mix of fruits) as dessert in place of gulab jamun or other sweets",
+      "Probiotic yogurt (dahi) with no added sugar as a snack",
+      "Sugar-free herbal mouth fresheners (clove, fennel seeds) after meals instead of sweet mukhwas"
+    ]
+  },
+  {
+    "microbe": "Streptococcus australis",
+    "effect": "risk_increase",
+    "evidence": "As with other Streptococcus species, S. australis (an oral-origin species) is found more frequently in CVD patients’ gut microbiomes (dysbiosis indicator)&#8203;:contentReference[oaicite:5]{index=5}.",
+    "interventions": [
+      "Cut down on refined carbs (white bread, polished rice) and sweets – these foods can foster Streptococcus growth. Opt for complex carbs and traditional grains.",
+      "Use antimicrobial and prebiotic spices in cooking (garlic, ginger, turmeric). Garlic contains compounds that modulate gut bacteria favorably&#8203;:contentReference[oaicite:6]{index=6} and may help keep Streptococcus in check.",
+      "Increase fermented food intake (idli, dosa, fermented rice water) to improve gut microbiota balance. The Lactobacilli from fermented foods create acidic conditions unfavorable to Streptococci."
+    ],
+    "food_examples": [
+      "Multigrain rotis or millet dosa instead of refined flour naan",
+      "Garlic- and ginger-rich curries (e.g., garlic chutney, adrak (ginger) dal) as part of meals",
+      "Turmeric milk (haldi doodh) as an evening drink for its antimicrobial and prebiotic benefits",
+      "Idli or appam (fermented rice-lentil foods) for breakfast to incorporate natural probiotics"
+    ]
+  },
+  {
+    "microbe": "Eubacterium eligens",
+    "effect": "protective",
+    "evidence": "This species is a butyrate-producing commensal often *depleted* in CVD patients (higher in healthy controls)&#8203;:contentReference[oaicite:7]{index=7}, indicating a protective role when abundant.",
+    "interventions": [
+      "Increase overall dietary fiber and prebiotics to boost E. eligens – higher fiber intake is associated with greater E. eligens abundance&#8203;:contentReference[oaicite:8]{index=8}. Include legumes, whole grains, and vegetables in daily diet.",
+      "Consume a diverse plant-based diet (variety of dal, sabzi, fruits) to provide substrates for fermentation. A diverse fiber diet encourages butyrate-producing bacteria like E. eligens.",
+      "Consider foods or supplements high in fructooligosaccharides (FOS) and inulin (e.g., garlic, onions, banana, chicory). These prebiotics selectively feed beneficial gut microbes, potentially increasing E. eligens."
+    ],
+    "food_examples": [
+      "Whole grains (atta rotis, brown rice, millet porridge) in meals instead of refined grains",
+      "Pulses and legumes (dal, chickpeas, rajma) regularly – rich in fermentable fiber",
+      "Incorporating raw onions or leeks in salads, and garlic in cooking for inulin prebiotics",
+      "Snacks like roasted chickpeas or flaxseed mukhwas for extra fiber"
+    ]
+  },
+  {
+    "microbe": "Escherichia coli",
+    "effect": "risk_increase",
+    "evidence": "Gut E. coli (pathobiont strains) tend to be elevated in patients with coronary artery disease&#8203;:contentReference[oaicite:9]{index=9}, contributing to inflammation and TMAO production.",
+    "interventions": [
+      "Limit red meat and egg yolk consumption – these are high in carnitine/choline which gut bacteria (including some E. coli) convert to TMAO, a pro-atherogenic compound&#8203;:contentReference[oaicite:10]{index=10}. Opt for plant proteins or fish instead of frequent mutton/beef meals.",
+      "Ensure food and water hygiene to avoid pathogenic E. coli: drink filtered water, wash vegetables thoroughly, and cook meats properly. Reducing gut exposure to new E. coli strains lowers overall burden.",
+      "Increase intake of high-fiber foods and fermented products. Fiber (from veggies, whole grains) reduces gut pH and binds endotoxins, while probiotics (yogurt, kimchi, kanji) introduce beneficial microbes that compete with E. coli."
+    ],
+    "food_examples": [
+      "Dal, rajma or chole (legume curries) as protein sources instead of red meat curries",
+      "Sprouted beans or tofu in salads as a protein alternative to processed meats",
+      "Buttermilk (chaas) spiced with cumin and mint – a probiotic drink to accompany meals",
+      "Cooked vegetables and salads (e.g., khichdi with veggies, kachumber salad) for daily fiber"
+    ]
+  },
+  {
+    "microbe": "Lactobacillus mucosae",
+    "effect": "protective",
+    "evidence": "Beneficial gut Lactobacillus levels (including L. mucosae) are lower in patients with severe coronary atherosclerosis&#8203;:contentReference[oaicite:11]{index=11}. Certain L. mucosae strains show cholesterol-lowering, anti-inflammatory effects&#8203;:contentReference[oaicite:12]{index=12}.",
+    "interventions": [
+      "Consume probiotic-rich foods daily. Have dahi (yogurt with live cultures), lassi, or kefir to directly increase Lactobacillus in the gut.",
+      "Include traditional fermented foods like idli, dosa, appam, pickled vegetables – these can naturally harbor Lactobacilli and help boost L. mucosae levels.",
+      "Eat prebiotic fibers that Lactobacilli ferment. For example, include bananas, asparagus, garlic, and whole grains to provide fodder for L. mucosae to thrive."
+    ],
+    "food_examples": [
+      "Homemade curd (dahi) or probiotic yogurt as part of meals or snacks",
+      "Fermented milk drinks like sweet or salted lassi, or commercially available probiotic drinks (Yakult™)",
+      "South Indian fermented foods (idli, dosa) with sambar for breakfast",
+      "Fermented pickles (such as dosa-avakaya or fermented carrot kanji) in moderation for probiotic benefit"
+    ]
+  },
+  {
+    "microbe": "Gemella morbillorum",
+    "effect": "risk_increase",
+    "evidence": "Presence of G. morbillorum (normally an oral bacterium) is linked to higher cardiovascular risk (e.g., ~3-fold increased hazard for heart disease in one study&#8203;:contentReference[oaicite:13]{index=13}).",
+    "interventions": [
+      "Improve oral health habits – brush twice a day, floss, and use antiseptic mouthwash. This reduces oral Gemella, lowering the chance of it seeding the gut and causing systemic inflammation.",
+      "Cut down on sugary and starchy foods that feed oral bacteria. Reducing sweets, refined carbs and sweetened beverages can suppress overgrowth of G. morbillorum in both mouth and gut.",
+      "Strengthen gut barrier and beneficial flora with high-fiber foods and probiotics. A diet rich in fiber (whole fruits, vegetables, whole grains) plus fermented foods (curd, idli) can limit the proliferation of opportunistic microbes like Gemella."
+    ],
+    "food_examples": [
+      "Crunchy high-fiber fruits/veggies like apples, carrots (their chewing action and fiber help oral health and gut) instead of sugary snacks",
+      "Herbal teas (tulsi or green tea) with no sugar, as alternatives to sweet chai – polyphenols support a healthy microbiome",
+      "Neem or clove-based herbal mouth rinse (traditional) to reduce oral bacteria (lifestyle step complementing diet)",
+      "Probiotic curd or miso soup with meals to introduce protective bacteria"
+    ]
+  },
+  {
+    "microbe": "Bilophila wadsworthia",
+    "effect": "risk_increase",
+    "evidence": "This sulfate-reducing bacterium blooms on high-fat diets and is associated with inflammation and elevated TMAO levels (a CVD risk factor)&#8203;:contentReference[oaicite:14]{index=14}&#8203;:contentReference[oaicite:15]{index=15}.",
+    "interventions": [
+      "Limit saturated fats and excessive animal protein. Bilophila thrives on bile from high-fat diets; a diet lower in ghee, butter, red meat will reduce its fuel&#8203;:contentReference[oaicite:16]{index=16}. Use lean meats or plant-based fats instead.",
+      "Increase fiber intake (psyllium husk, oats, fruits, vegetables) to bind bile acids and produce SCFAs – this helps suppress Bilophila. A predominantly plant-based diet can shift bile acid composition away from Bilophila-favoring types.",
+      "Incorporate garlic and fiber-rich alliums (onion, leeks) in your diet. Garlic has prebiotics and antimicrobial sulfur compounds that can mitigate high-fat diet gut imbalances&#8203;:contentReference[oaicite:17]{index=17} and potentially curb Bilophila overgrowth."
+    ],
+    "food_examples": [
+      "Use mustard oil or sunflower oil in moderation instead of butter/ghee for cooking",
+      "Grilled or tandoori fish/chicken as protein (leaner, lower fat) rather than mutton curry or fried meats",
+      "Oatmeal or barley porridge for breakfast (beta-glucan fiber to bind bile) with added nuts/seeds",
+      "Garlic chutney or garlic pickle as a condiment – provides allicin and fiber"
+    ]
+  },
+  {
+    "microbe": "Eggerthella lenta",
+    "effect": "risk_increase",
+    "evidence": "Found in higher abundance in atherosclerosis patients&#8203;:contentReference[oaicite:18]{index=18}. E. lenta is implicated in generating pro-atherogenic metabolites and is often considered a dysbiosis marker in CVD.",
+    "interventions": [
+      "Moderate/avoid red meats and egg yolks (rich in choline and carnitine) – gut bacteria including E. lenta can contribute to TMAO formation from these foods&#8203;:contentReference[oaicite:19]{index=19}. Favor dals, beans, or lean poultry/fish over red meat to lower this risk factor.",
+      "Increase intake of polyphenol-rich foods which can modulate E. lenta activity. Green tea, amla (Indian gooseberry), pomegranate, turmeric, and berries contain antioxidants; notably, resveratrol (in grapes/peanuts) has been shown to reduce harmful TMA production by the microbiome&#8203;:contentReference[oaicite:20]{index=20}.",
+      "High-fiber diet and probiotics: Ensure plenty of vegetables, whole grains, and fermented foods to support beneficial microbes. Fiber fosters short-chain fatty acid producers that create an environment less favorable to E. lenta (which prefers protein-rich, low-fiber conditions)."
+    ],
+    "food_examples": [
+      "Vegetarian protein dishes like rajma (kidney beans curry) or chana masala instead of red meat dishes",
+      "Amla juice or chutney, and green tea in the daily diet for their polyphenols",
+      "Turmeric-spiced lentil soup (dal with haldi) – combines fiber and anti-inflammatory curcumin",
+      "Fermented foods (idli, dosa, kombucha) alongside meals to help maintain a balanced gut flora"
+    ]
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "Ruminococcus_gnavus": {
+    "effect": "risk_increase",
+    "advice": [
+      "Reduce high-fat animal foods (especially red meat)",
+      "Avoid ultra-processed foods rich in saturated fat",
+      "Increase soluble fiber intake from oats, apples, and flaxseed"
+    ],
+    "indian_examples": [
+      "Avoid: mutton, fried pakoras, ghee-laden sweets",
+      "Eat: moong dal, masoor dal, raw banana curry, oats upma"
+    ]
+  },
+  "Streptococcus_oralis": {
+    "effect": "risk_increase",
+    "advice": [
+      "Maintain good oral hygiene",
+      "Avoid excessive sugar which fuels overgrowth",
+      "Include natural anti-microbials like turmeric and cloves"
+    ],
+    "indian_examples": [
+      "Use turmeric-based mouth rinses",
+      "Chew clove after meals"
+    ]
+  },
+  "Streptococcus_mitis": {
+    "effect": "risk_increase",
+    "advice": [
+      "Improve oral hygiene habits",
+      "Cut back on refined sugars and sticky sweets",
+      "Eat more fibrous raw veggies"
+    ],
+    "indian_examples": [
+      "Limit rasgullas, chocolates, and bread pakoras",
+      "Eat: cucumber, radish, and raw carrots as salad"
+    ]
+  },
+  "Eubacterium_eligens": {
+    "effect": "protective",
+    "advice": [
+      "Support with fiber-rich vegetables",
+      "Add fermented plant-based foods",
+      "Maintain a balanced vegetarian diet"
+    ],
+    "indian_examples": [
+      "Eat: cooked okra, green beans, fermented rice (pakhala bhat)",
+      "Include buttermilk or kanji (fermented carrot drink)"
+    ]
+  },
+  "Escherichia_coli": {
+    "effect": "risk_increase",
+    "advice": [
+      "Ensure good food hygiene and water safety",
+      "Avoid street food during summer",
+      "Boost gut immunity with curd and probiotics"
+    ],
+    "indian_examples": [
+      "Avoid: uncooked pani puri or roadside chaats",
+      "Eat: home-made curd, probiotic lassi, sabja (basil seeds)"
+    ]
+  },
+  "Streptococcus_australis": {
+    "effect": "risk_increase",
+    "advice": [
+      "Same oral hygiene focus as other Streptococcus species",
+      "Include natural antiseptic herbs and foods"
+    ],
+    "indian_examples": [
+      "Use clove, cardamom, tulsi (basil) in teas and mouth rinses"
+    ]
+  },
+  "Lactobacillus_mucosae": {
+    "effect": "protective",
+    "advice": [
+      "Promote growth with fermented dairy (curd, buttermilk)",
+      "Use prebiotics: banana, garlic, and fenugreek",
+      "Avoid broad-spectrum antibiotics unless prescribed"
+    ],
+    "indian_examples": [
+      "Eat: dahi, chaas, banana, jeera-garlic tadka dal"
+    ]
+  },
+  "Gemella_morbillorum": {
+    "effect": "uncertain",
+    "advice": [
+      "Maintain oral and gut hygiene",
+      "Include antioxidants like Amla, turmeric, and garlic"
+    ],
+    "indian_examples": [
+      "Drink: turmeric milk or herbal kadha with tulsi",
+      "Eat: roasted garlic, gooseberries (amla)"
+    ]
+  },
+  "Bilophila_wadsworthia": {
+    "effect": "risk_increase",
+    "advice": [
+      "Avoid high-fat ketogenic-style diets",
+      "Support with polyphenols and prebiotic fiber",
+      "Eat more plant diversity (30+ plants/week rule)"
+    ],
+    "indian_examples": [
+      "Eat: palak, methi, sabudana khichdi, methi thepla",
+      "Avoid: butter chicken, paneer makhani excess"
+    ]
+  },
+  "Eggerthella_lenta": {
+    "effect": "risk_increase",
+    "advice": [
+      "Avoid red meat and processed meat",
+      "Use plant-based iron and polyphenols",
+      "Eat more cruciferous veggies (cabbage, cauliflower)"
+    ],
+    "indian_examples": [
+      "Eat: cabbage sabzi, chana dal, sarson ka saag",
+      "Avoid: kababs, sausages, processed meats"
+    ]
+  }
+}

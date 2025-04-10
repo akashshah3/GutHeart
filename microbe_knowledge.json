@@ -1,0 +1,173 @@
+[
+  {
+    "microbe": "Ruminococcus gnavus",
+    "aliases": ["Ruminococcus gnavus", "Ruminococcus_gnavus", "s__Ruminococcus_gnavus"],
+    "effect": "risk_increase",
+    "evidence": "Enriched in atherosclerotic CVD patients (higher prevalence and abundance compared to healthy controls)",
+    "interventions": [
+      "Increase dietary fiber intake (e.g., fruits like guava, pear, vegetables, whole grains)",
+      "Consume fermented foods (idli, dosa, dhokla, yogurt/curd)",
+      "Limit high-fat and high-sugar foods (fried snacks, sweets, sugary drinks)"
+    ],
+    "food_examples": [
+      "Guava, apple, pear as high-fiber snacks",
+      "Whole grains and millets (ragi, jowar, brown rice)",
+      "Fermented dosa/idli for breakfast",
+      "Probiotic curd (dahi) or buttermilk (chaas)"
+    ]
+  },
+  {
+    "microbe": "Streptococcus oralis",
+    "aliases": ["Streptococcus oralis", "Streptococcus_oralis", "s__Streptococcus_oralis"],
+    "effect": "risk_increase",
+    "evidence": "Streptococcus (oral-type) bacteria are more abundant in coronary artery disease patients than in healthy people.",
+    "interventions": [
+      "Reduce intake of refined sugars and sweets",
+      "Emphasize fiber-rich foods to promote a healthier gut environment",
+      "Include probiotic foods like unsweetened yogurt, kefir or fermented pickles"
+    ],
+    "food_examples": [
+      "Fresh fruits (e.g., oranges, guava) instead of sugary desserts",
+      "Whole-wheat roti or oats upma",
+      "Homemade dahi or unsweetened lassi",
+      "Fermented pickle as a condiment"
+    ]
+  },
+  {
+    "microbe": "Streptococcus mitis",
+    "aliases": ["Streptococcus mitis", "Streptococcus_mitis", "s__Streptococcus_mitis"],
+    "effect": "risk_increase",
+    "evidence": "Streptococcus mitis is enriched in patients with cardiovascular disease.",
+    "interventions": [
+      "Maintain good oral hygiene",
+      "Limit sugary foods and beverages",
+      "Add fermented foods or probiotics"
+    ],
+    "food_examples": [
+      "Water or nimbu pani instead of sugary soft drinks",
+      "Fiber-rich fruit chaat as dessert",
+      "Probiotic yogurt with no added sugar",
+      "Sugar-free herbal mouth fresheners"
+    ]
+  },
+  {
+    "microbe": "Streptococcus australis",
+    "aliases": ["Streptococcus australis", "Streptococcus_australis", "s__Streptococcus_australis"],
+    "effect": "risk_increase",
+    "evidence": "S. australis is found more frequently in CVD patients’ gut microbiomes.",
+    "interventions": [
+      "Cut down on refined carbs and sweets",
+      "Use antimicrobial and prebiotic spices (garlic, ginger, turmeric)",
+      "Increase fermented food intake"
+    ],
+    "food_examples": [
+      "Multigrain rotis or millet dosa",
+      "Garlic- and ginger-rich curries",
+      "Turmeric milk (haldi doodh)",
+      "Idli or appam for breakfast"
+    ]
+  },
+  {
+    "microbe": "Eubacterium eligens",
+    "aliases": ["Eubacterium eligens", "Eubacterium_eligens", "s__Eubacterium_eligens"],
+    "effect": "protective",
+    "evidence": "Butyrate‑producer often depleted in CVD patients.",
+    "interventions": [
+      "Increase dietary fiber and prebiotics",
+      "Consume a diverse plant-based diet",
+      "Include foods high in FOS and inulin"
+    ],
+    "food_examples": [
+      "Whole grains (atta rotis, brown rice)",
+      "Pulses and legumes regularly",
+      "Raw onions or leeks in salads",
+      "Roasted chickpeas or flaxseed snacks"
+    ]
+  },
+  {
+    "microbe": "Escherichia coli",
+    "aliases": ["Escherichia coli", "Escherichia_coli", "E_coli", "s__Escherichia_coli"],
+    "effect": "risk_increase",
+    "evidence": "Gut E. coli tends to be elevated in coronary artery disease patients.",
+    "interventions": [
+      "Limit red meat and egg yolk consumption",
+      "Ensure food and water hygiene",
+      "Increase high-fiber foods and fermented products"
+    ],
+    "food_examples": [
+      "Dal, rajma or chole as protein sources",
+      "Sprouted beans or tofu in salads",
+      "Buttermilk spiced with cumin and mint",
+      "Cooked vegetables and salads for daily fiber"
+    ]
+  },
+  {
+    "microbe": "Lactobacillus mucosae",
+    "aliases": ["Lactobacillus mucosae", "Lactobacillus_mucosae", "s__Lactobacillus_mucosae"],
+    "effect": "protective",
+    "evidence": "Beneficial Lactobacillus levels are lower in severe coronary atherosclerosis.",
+    "interventions": [
+      "Consume probiotic-rich foods daily",
+      "Include traditional fermented foods",
+      "Eat prebiotic fibers"
+    ],
+    "food_examples": [
+      "Homemade curd or probiotic yogurt",
+      "Fermented milk drinks like lassi",
+      "South Indian fermented foods",
+      "Fermented pickles in moderation"
+    ]
+  },
+  {
+    "microbe": "Gemella morbillorum",
+    "aliases": ["Gemella morbillorum", "Gemella_morbillorum", "s__Gemella_morbillorum"],
+    "effect": "risk_increase",
+    "evidence": "Presence linked to higher cardiovascular risk.",
+    "interventions": [
+      "Improve oral health habits",
+      "Cut down on sugary and starchy foods",
+      "Strengthen gut barrier with fiber and probiotics"
+    ],
+    "food_examples": [
+      "Crunchy high-fiber fruits/veggies like apples, carrots",
+      "Herbal teas with no sugar",
+      "Neem or clove-based herbal mouth rinse",
+      "Probiotic curd or miso soup"
+    ]
+  },
+  {
+    "microbe": "Bilophila wadsworthia",
+    "aliases": ["Bilophila wadsworthia", "Bilophila_wadsworthia", "s__Bilophila_wadsworthia"],
+    "effect": "risk_increase",
+    "evidence": "Sulfate‑reducer blooms on high‑fat diets and is linked to inflammation.",
+    "interventions": [
+      "Limit saturated fats and excessive animal protein",
+      "Increase fiber intake to bind bile acids",
+      "Incorporate garlic and fiber-rich alliums"
+    ],
+    "food_examples": [
+      "Mustard or sunflower oil instead of butter/ghee",
+      "Grilled fish/chicken rather than fried meats",
+      "Oatmeal or barley porridge for breakfast",
+      "Garlic chutney or garlic pickle"
+    ]
+  },
+  {
+    "microbe": "Eggerthella lenta",
+    "aliases": ["Eggerthella lenta", "Eggerthella_lenta", "s__Eggerthella_lenta"],
+    "effect": "risk_increase",
+    "evidence": "Higher abundance in atherosclerosis patients; contributes to TMAO.",
+    "interventions": [
+      "Moderate/avoid red meats and egg yolks",
+      "Increase polyphenol-rich foods",
+      "High-fiber diet and probiotics"
+    ],
+    "food_examples": [
+      "Rajma or chana masala instead of red meat dishes",
+      "Amla juice or green tea for polyphenols",
+      "Turmeric-spiced lentil soup",
+      "Fermented foods like idli, dosa"
+    ]
+  }
+]
+
