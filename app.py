@@ -51,7 +51,7 @@ page = st.sidebar.radio("Navigate", ["🏠 Home", "📁 Upload & Predict", "❓ 
 chosen_model_name = st.sidebar.selectbox("Choose model", list(model_dict.keys()))
 chosen_model = model_dict[chosen_model_name]
 st.sidebar.markdown("---")
-st.sidebar.caption("© 2025 Gut‑Heart Lab | For research use only")
+st.sidebar.caption("Gut‑Heart | For research use only")
 
 # ---------- Helper functions ----------
 def predict(df: pd.DataFrame):
@@ -167,8 +167,7 @@ else:
     with st.expander("Why does SHAP not work?"):
         st.write(
             "The current tree‑SHAP implementation can’t handle the high‑dimensional "
-            "sparse feature matrix from microbiome data.  LIME is lighter and works well "
-            "for single‑sample explanations."
+            "sparse feature matrix from microbiome data."
         )
     with st.expander("How were the lifestyle suggestions built?"):
         st.write(
