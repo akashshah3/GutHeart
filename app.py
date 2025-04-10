@@ -27,16 +27,15 @@ st.markdown(
 @st.cache_resource
 def load_assets():
     rf = joblib.load("rf_model.pkl")
-    gb = joblib.load("gb_model.pkl")
     scaler = joblib.load("scaler.pkl")
     with open("microbe_knowledge.json") as f:
         kb = json.load(f)
-    return rf, gb, scaler, kb
+    return rf, scaler, kb
 
 
-rf_model, gb_model, scaler, microbe_kb = load_assets()
+rf_model, scaler, microbe_kb = load_assets()
 
-model_dict = {"Random Forest": rf_model, "Gradient Boosting": gb_model}
+model_dict = {"Random Forest": rf_model}
 
 def top_feature_importance(model, k=15):
     """Return a DataFrame of the k most important features."""
@@ -48,8 +47,9 @@ def top_feature_importance(model, k=15):
 # ---------- Sidebar ----------
 st.sidebar.image("logo.png", width=180)
 page = st.sidebar.radio("Navigate", ["🏠 Home", "📁 Upload & Predict", "❓ FAQ"])
-chosen_model_name = st.sidebar.selectbox("Choose model", list(model_dict.keys()))
-chosen_model = model_dict[chosen_model_name]
+# chosen_model_name = st.sidebar.selectbox("Choose model", list(model_dict.keys()))
+# chosen_model = model_dict[chosen_model_name]
+chosen_model = rf_model
 st.sidebar.markdown("---")
 st.sidebar.caption("Gut‑Heart | For research use only")
 
@@ -114,14 +114,8 @@ elif page == "📁 Upload & Predict":
             unsafe_allow_html=True
         )
 
-
-        # --- LIME explanation ---
-        st.subheader("Top contributing microbes")
-        # lime_list = get_lime(user_df)
-        # contrib_df = pd.DataFrame(lime_list, columns=["Microbe", "Impact"])
-        # st.bar_chart(contrib_df.set_index("Microbe"))
-
         # --- Feature‑importance explanation ---
+        st.subheader("Top contributing microbes")
         imp_df = top_feature_importance(chosen_model, k=15)
         st.bar_chart(imp_df.set_index("Microbe"))
 
